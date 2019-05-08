@@ -4,16 +4,22 @@ import { Link, navigate, StaticQuery, graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import Swipeable from 'react-swipeable';
 import Transition from '../components/transition';
+import logo from './soulweb-logo-small.png';
 
 import './index.css';
 
 const Header = ({ name, name2, title, date }) => (
   <header>
     <Link to="/1">
-      {title}<br/>
-      <span>{name}</span>, <span>{name2}</span>      
+    <div id="header-left">
+        <img src={logo} alt="Soulweb Solutions Logo" />
+         <span>{name}</span>,&nbsp;<span>{name2}</span>
+      </div>
     </Link>
-    <time>{date}</time>
+    <div id="header-right">
+      {title}<br/>
+      <time>{date}</time>
+    </div>
   </header>
 );
 
