@@ -14,4 +14,4 @@ Drupal Meetup Malaga
 |![Marco Martino](./marco.jpg) | ![Giuseppe Iannì](./pepe.jpeg)|
 | drupal.org/u/mecmartini | drupal.org/u/karma0321 |
 | @devMartini | @karma0321 |
-![Soulweb Solutions Logo](./soulweb-logo-horiz.jpg)
+![Soulweb Solutions Logo](./soulweb-logo-horiz.png)
