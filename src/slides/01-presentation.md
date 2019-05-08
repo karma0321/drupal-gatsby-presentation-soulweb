@@ -70,7 +70,7 @@ you can take advantage of Gatsby to learn them.
 
 1. A basic Drupal website running
 2. Enable the module `jsonapi`  
-  * (Optional) Download and enable module `jsonapi_extras`  
+  * **(Optional)** Download and enable module `jsonapi_extras`  
   `composer require drupal/jsonapi_extras`  
 3. Check if your Drupal API works:  
   `http://[your-site.tld]/jsonapi`
@@ -91,7 +91,7 @@ Requirements:
 
 # GatsbyJS - New Project
 
-_Create a new project from gatsby starter in ./drupalgatsby_  
+### Create a new project from gatsby starter in ./drupalgatsby
 
 `gatsby new drupalgatsby`
 
@@ -99,7 +99,7 @@ _Create a new project from gatsby starter in ./drupalgatsby_
 
 # GatsbyJS - New Project
 
-_Enter the project directory_  
+### Enter the project directory
 
 `cd drupalgatsby`
 
@@ -107,7 +107,7 @@ _Enter the project directory_
 
 # GatsbyJS - New Project
 
-_Start a hot-reloading development server on `localhost:8000`_  
+### Start a hot-reloading development server on `localhost:8000`
 
 `gatsby develop`
 
@@ -135,14 +135,14 @@ Gatsby projects are actually React apps, so it’s common to use standard React 
 
 # GatsbyJS - Drupal Integration
 
-Install the source plugin:  
+### Install the source plugin
 `npm install --save gatsby-source-drupal`
 
 ---
 
 # GatsbyJS - Drupal Integration
 
-Add configuration for the source plugin:
+### Add configuration for the source plugin:
 ### In `gatsby-config.js`
 
 ```
@@ -204,8 +204,8 @@ const Blog = ({ data }) => {
 # Fetch Drupal data with GraphQL
 
 ```
-{
-  allNodeArticle{
+export const query = graphql`
+  query allNodeArticle{
     totalCount
     edges{
       node{
@@ -229,7 +229,7 @@ const Blog = ({ data }) => {
       }
     }
   }
-}
+`
 ```
 ---
 
