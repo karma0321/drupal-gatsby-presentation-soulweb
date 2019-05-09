@@ -2,7 +2,16 @@
 
 ---
 
+# What's Drupal Decoupled
+_“The use of Drupal as a content service
+for consumption by other applications”_
+
+- **Fully decoupled**: complete separation between Drupal and consumer applications
+- **Progressively decoupled**: provides a middle ground by interpolating Javascript Frameworks into Twig
+
+---
 # JSON:API in core
+since version 8.7.0
 
 ---
 
