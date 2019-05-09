@@ -3,7 +3,7 @@
   --meta: #888;
   --accent: #3178cd;
   --text: black;
-  --base: 1.3rem;
+  --base: 1.2rem;
   --headings: #1f277b;
 }
 
@@ -160,7 +160,7 @@ p {
 }
 
 header {
-  font-size: 50%;
+  font-size: 75%;
 
   position: fixed;
   top: 0;
