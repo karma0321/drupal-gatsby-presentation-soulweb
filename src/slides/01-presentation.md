@@ -274,7 +274,9 @@ relationships{
 ---
 # Generate BlogPost pages
 
-add **this** code to `gatsby-node.js`
+add **this** code to `gatsby-node.js`  
+
+_(now is when you switch to the editor to show the code)_
 
 
 ---
@@ -306,20 +308,15 @@ const BlogPost = ({ data }) => {
 
 
 ---
-# Querying
+
+# Resources
+
+Gatsby Website (Gatsbyjs.org)
+
+
+---
+# Q&A
 
 ---
 
-# gatsby-config.js
-
----
-
-# Template
-
----
-
-# More
-
-markdown drupal plugin  
-forms  
-internationalization  
+# Thanks!!
