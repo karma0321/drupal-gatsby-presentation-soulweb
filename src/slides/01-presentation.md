@@ -66,7 +66,9 @@ you can take advantage of Gatsby to learn them.
 
 ---
 
-# How to integrate a blog with Drupal 8 + Gatsby
+# How to integrate a blog with Drupal 8 + GatsbyJS
+
+![Drupal 8 + GatsbyJS](./drupal-gatsby.png)
 
 - Build a Drupal server
 - Build a Gatsby site
