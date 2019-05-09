@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     name: `Marco Martino @devMartini`,
     name2: `Giuseppe Iannì @karma0321`,
-    title: `Drupal + Gatsby @ DrupalCamp Spain 2019`,
+    title: `Drupal + GatsbyJS @ DrupalCamp Spain 2019`,
     date: `May 10, 2019`,
   },
   plugins: [
