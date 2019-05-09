@@ -315,6 +315,11 @@ const BlogPost = ({ data }) => {
 
 Gatsby Website (Gatsbyjs.org)
 
+**This presentation**
+https://github.com/karma0321/drupal-gatsby-presentation-soulweb
+
+**The code of our GatsbyJS site**
+https://github.com/karma0321/gatsby-drupal-blog
 
 ---
 # Q&A
