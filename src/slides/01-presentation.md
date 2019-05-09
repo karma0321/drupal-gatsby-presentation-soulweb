@@ -244,7 +244,7 @@ export const query = graphql`
 ```
 ---
 
-# Fetch Drupal data with GraphQL
+# Fetch Drupal data with GraphQL -- Images
 
 ```
 ...
