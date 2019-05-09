@@ -3,9 +3,11 @@
 ---
 
 # Thanks
+
 ![AED logo](./aed_logo.jpg)
+
+![Logo Drupal Meetup Malaga](./drupal-meetup-malaga-logo.png)
 ### Drupal Meetup Malaga  
-![Logo Drupal Meetup Malaga](./drupal-meetup-malaga-logo.png)  
 https://www.meetup.com/es-ES/DrupalMalaga/
 
 ---
