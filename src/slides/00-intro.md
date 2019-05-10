@@ -23,4 +23,4 @@ https://www.meetup.com/es-ES/DrupalMalaga/
 | @devMartini | @karma0321 |
 ![Soulweb Solutions Logo](./soulweb-logo-horiz.png)
 
-[info@soulweb.it](info@soulweb.it)
+[info@soulweb.it](mailto:info@soulweb.it)

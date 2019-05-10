@@ -12,10 +12,13 @@ const Header = ({ name, name2, title, date }) => (
   <header>
     <Link to="/1">
     <div id="header-left">
+      <div className="logo">
         <img src={logo} alt="Soulweb Solutions Logo" />
         <a href="mailto:info@soulweb.it" title="info@soulweb.it">info@soulweb.it</a>
-        &nbsp;|&nbsp;
+      </div>
+        <div className="names">
         <span>{name}</span>,&nbsp;<span>{name2}</span>
+      </div>
       </div>
     </Link>
     <div id="header-right">
