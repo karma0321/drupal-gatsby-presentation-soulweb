@@ -274,7 +274,7 @@ relationships{
 ```
 
 ---
-# Generate BlogPost pages
+# Generate BlogPost nodes
 
 add **this** code to `gatsby-node.js`  
 
@@ -283,7 +283,7 @@ _(now is when you switch to the editor to show the code)_
 
 ---
 
-# Generate BlogPost pages
+# Create BlogPost template
 ### In `/src/templates/BlogPost.js`
 
 ```
