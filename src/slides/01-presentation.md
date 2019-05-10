@@ -309,7 +309,8 @@ const BlogPost = ({ data }) => {
 
 # Resources
 
-Gatsby Website (Gatsbyjs.org)
+**Gatsby Website**
+[https://www.gatsbyjs.org/](https://www.gatsbyjs.org/)
 
 **This presentation**
 https://github.com/karma0321/drupal-gatsby-presentation-soulweb
