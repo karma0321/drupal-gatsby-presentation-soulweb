@@ -13,7 +13,9 @@ const Header = ({ name, name2, title, date }) => (
     <Link to="/1">
     <div id="header-left">
         <img src={logo} alt="Soulweb Solutions Logo" />
-         <span>{name}</span>,&nbsp;<span>{name2}</span>
+        <a href="mailto:info@soulweb.it" title="info@soulweb.it">info@soulweb.it</a>
+        &nbsp;|&nbsp;
+        <span>{name}</span>,&nbsp;<span>{name2}</span>
       </div>
     </Link>
     <div id="header-right">
