@@ -193,6 +193,14 @@ header span {
 
 #header-left {
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  justify-content: center;
+}
+
+#header-left .logo{
+  display: flex;
   align-items: center;
 }
 
