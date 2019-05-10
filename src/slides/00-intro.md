@@ -1,5 +1,5 @@
 # Welcome
-## Drupal + GatsbyJS
+## Decoupled Drupal + GatsbyJS
 ![Drupal + GatsbyJS](./drupal-gatsby-u.png)
 
 
@@ -22,3 +22,5 @@ https://www.meetup.com/es-ES/DrupalMalaga/
 | drupal.org/u/mecmartini | drupal.org/u/karma0321 |
 | @devMartini | @karma0321 |
 ![Soulweb Solutions Logo](./soulweb-logo-horiz.png)
+
+[info@soulweb.it](info@soulweb.it)
