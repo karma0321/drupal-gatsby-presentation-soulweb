@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    name: `Marco Martino @devmartini`,
+    name: `Marco Martino @devMartini`,
     name2: `Giuseppe Iannì @karma0321`,
-    title: `Drupal + Gatsby @ DrupalCamp Spain 2019`,
-    date: `May 11, 2019`,
+    title: `Drupal + GatsbyJS @ DrupalCamp Spain 2019`,
+    date: `May 10, 2019`,
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -28,6 +28,7 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 1920,
+              linkImagesToOriginal: false,
             },
           },
         ],
