@@ -6,22 +6,6 @@ Slide deck (built with Gatsby) on how to use Drupal with GatsbyJS.
 
 Created with gatsby-starter-deck - https://github.com/fabe/gatsby-starter-deck
 
-## Installation
-
-### With [`gatsby-cli`](https://www.npmjs.com/package/gatsby-cli)
-
-```bash
-$ gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
-```
-
-### With `git clone`
-
-```bash
-$ git clone git@github.com:fabe/gatsby-starter-deck.git my-slides
-$ cd my-slides
-$ yarn
-```
-
 ## Usage
 
 Edit and extend your slides inside the `src/slides.md` file. Navigate with the arrow keys.
