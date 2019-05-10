@@ -50,10 +50,6 @@ and a runtime for fulfilling queries with existing data.
 
 ---
 
-# GraphiQL
-
----
-
 # Do I have to know React and GraphQL?
 
 React and GraphQL are the fundamentals of Gatsby,  
