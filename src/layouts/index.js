@@ -8,19 +8,20 @@ import logo from './soulweb-logo-small.png';
 
 import './index.css';
 
-const Header = ({ name, name2, title, date }) => (
+const Header = ({ name1, name2, link1, link2, title, date }) => (
   <header>
-    <Link to="/1">
     <div id="header-left">
       <div className="logo">
-        <img src={logo} alt="Soulweb Solutions Logo" />
+        <a href="https://soulweb.it" target="_blank">
+          <img src={logo} alt="Soulweb Solutions Logo" />
+        </a>
         <a href="mailto:info@soulweb.it" title="info@soulweb.it">info@soulweb.it</a>
       </div>
         <div className="names">
-        <span>{name}</span>,&nbsp;<span>{name2}</span>
+        <a href={link1} target="_blank"><span>{name1}</span></a>,&nbsp;
+        <a href={link2} target="_blank"><span>{name2}</span></a>
       </div>
-      </div>
-    </Link>
+    </div>
     <div id="header-right">
       {title}<br/>
       <time>{date}</time>
@@ -74,8 +75,10 @@ class TemplateWrapper extends Component {
           title={`${site.siteMetadata.title} — ${site.siteMetadata.name}`}
         />
         <Header
-          name={site.siteMetadata.name}
+          name1={site.siteMetadata.name1}
           name2={site.siteMetadata.name2}
+          link1={site.siteMetadata.link1}
+          link2={site.siteMetadata.link2}
           title={site.siteMetadata.title}
           date={site.siteMetadata.date}
         />
@@ -103,8 +106,10 @@ export default props => (
       query IndexQuery {
         site {
           siteMetadata {
-            name
+            name1
             name2
+            link1
+            link2
             title
             date
           }
