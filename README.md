@@ -1,5 +1,5 @@
 # Drupal + GatsbyJS
-### by [SoulWeb Solutions](mailto:info@soulweb.it)
+### by [SoulWeb Solutions](https://soulweb.it)
 
 Slide deck (built with Gatsby) on how to use Drupal with GatsbyJS.
 
