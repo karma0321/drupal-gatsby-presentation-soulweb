@@ -7,9 +7,9 @@
   --headings: #1f277b;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 640px) {
   :root {
-    --base: 1.2rem;
+    --base: 1rem;
   }
 }
 
@@ -212,4 +212,23 @@ header span {
 table{
   margin: 0 auto;
   width: 75%;
+}
+
+@media(max-width: 920px){
+  body, html{
+    height: auto;
+  }
+  #slide{
+    overflow-y: scroll;
+    height: auto;
+    margin-top: 1rem;
+  }
+  header {
+    flex-direction: column;
+    position: relative;
+  }
+  pre {
+    width: 100%;
+    overflow-x: scroll;
+  }
 }
