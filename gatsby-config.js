@@ -4,8 +4,8 @@ module.exports = {
     link1: `https://twitter.com/devMartini`,
     name2: `Giuseppe Iannì @karma0321`,
     link2: `https://twitter.com/karma0321`,
-    title: `Drupal + GatsbyJS @ DrupalCamp Spain 2019`,
-    date: `May 10, 2019`,
+    title: `Drupal + GatsbyJS @ Opensouthcode 2019`,
+    date: `May 25, 2019`,
   },
   plugins: [
     `gatsby-plugin-layout`,
