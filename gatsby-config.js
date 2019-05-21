@@ -33,6 +33,7 @@ module.exports = {
               linkImagesToOriginal: false,
             },
           },
+          `gatsby-remark-images-zoom`,
         ],
       },
     },
