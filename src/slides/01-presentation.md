@@ -84,6 +84,42 @@ you can take advantage of Gatsby to learn them.
 
 ---
 
+# Enable JSON:API module
+![Enabling JSON:API module](./enable-jsonapi.png)
+### or
+```bash
+$ drush en jsonapi
+```
+---
+
+# Download and enable `jsonapi_extras`
+
+```bash
+$ composer require drupal/jsonapi_extras
+$ drush en jsonapi_extras
+
+```
+___
+
+# Module `jsonapi` and `jsonapi_extras` enabled
+![JSON:API and jsonapi_extras modules enabled](./enable-jsonapi-extras.png)
+
+---
+# Configure `Blog` entity in Drupal
+
+---
+# Menu 'Structure': select 'Content types'
+![select menu 'Structure' -> 'Content types'](./structure--content-types.png)
+
+---
+# Add new content type
+![Add new content type](./add-new-content-type.png)
+
+---
+# Create Blog content type
+![Create Blog content type](./create-blog-content-type.png)
+
+---
 # Build a Gatsby website
 
 Requirements:
