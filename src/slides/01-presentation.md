@@ -86,6 +86,7 @@ you can take advantage of Gatsby to learn them.
 
 # Enable JSON:API module
 ![Enabling JSON:API module](./enable-jsonapi.png)
+
 ### or
 ```bash
 $ drush en jsonapi
