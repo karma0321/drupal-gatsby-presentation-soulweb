@@ -51,6 +51,21 @@ html {
   text-align: center;
 
   -webkit-overflow-scrolling: touch;
+  flex-wrap: wrap;
+}
+
+#slide .gatsby-resp-image-wrapper{
+  max-height: 75vh;
+  width: auto;
+}
+
+#slide .gatsby-resp-image-wrapper .gatsby-resp-image-image{
+  width: auto !important;
+  left: 0 !important;
+  right: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 75vw !important;
 }
 
 #slide ul, #slide ol {
