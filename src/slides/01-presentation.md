@@ -146,6 +146,39 @@ ___
 ![Add field Blog image](./add-field-blog-image-4.png)
 
 ---
+# Add field Blog Tags
+![Add field Blog tags](./add-field-blog-tags-0.png)
+
+---
+# Add field Blog Tags
+![Add field Blog tags](./add-field-blog-tags-1.png)
+
+---
+# Add field Blog Tags
+![Add field Blog tags](./add-field-blog-tags-2.png)
+
+---
+# Add field Blog Tags
+![Add field Blog tags](./add-field-blog-tags-3.png)
+
+---
+# Add field Blog Tags
+![Add field Blog tags](./add-field-blog-tags-4.png)
+
+---
+# Add field Blog Tags
+![Add field Blog tags](./add-field-blog-tags-5.png)
+
+---
+# Add field Blog Tags
+<div class="w-60vw shadowed-images-wrapper">
+
+![Add field Blog tags](./add-field-blog-tags-60.png)
+### [...]
+![Add field Blog tags](./add-field-blog-tags-61.png)
+</div>
+
+---
 # Build a Gatsby website
 
 Requirements:

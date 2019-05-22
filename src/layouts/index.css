@@ -228,6 +228,20 @@ table{
   width: 75%;
 }
 
+.w-60vw{
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.w-75vw{
+  width: 75vw;
+  margin: 0 auto;
+}
+
+.shadowed-images-wrapper img{
+  box-shadow: 0 4px 7px 1px #999 !important;
+}
+
 @media(max-width: 920px){
   body, html{
     height: auto;
