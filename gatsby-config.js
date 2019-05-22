@@ -33,7 +33,12 @@ module.exports = {
               linkImagesToOriginal: false,
             },
           },
-          `gatsby-remark-images-zoom`,
+          {
+            resolve: `gatsby-remark-images-zoom`,
+            options: {
+              background: `rgba(0, 0, 0, 0.75)`,
+            },
+          },
         ],
       },
     },
