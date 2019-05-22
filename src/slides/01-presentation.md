@@ -189,15 +189,6 @@ ___
 
 ---
 
-# JSON:API Extras options
-![JSON:API Extras options](./jsonapi-extras-options-2.png)
-
----
-
-# JSON:API Extras options
-![JSON:API Extras options](./jsonapi-extras-options-3.png)
-
----
 # Build a Gatsby website
 
 Requirements:
