@@ -121,6 +121,31 @@ ___
 ![Create Blog content type](./create-blog-content-type.png)
 
 ---
+# Add fields to Blog content type
+![Add fields to Blog content type](./add-fields-to-blog-content-type.png)
+
+---
+
+# Add field Blog Image
+![Add field Blog image](./add-field-blog-image-0.png)
+
+---
+# Add field Blog Image
+![Add field Blog image](./add-field-blog-image-1.png)
+
+---
+# Add field Blog Image
+![Add field Blog image](./add-field-blog-image-2.png)
+
+---
+# Add field Blog Image
+![Add field Blog image](./add-field-blog-image-3.png)
+
+---
+# Add field Blog Image
+![Add field Blog image](./add-field-blog-image-4.png)
+
+---
 # Build a Gatsby website
 
 Requirements:
