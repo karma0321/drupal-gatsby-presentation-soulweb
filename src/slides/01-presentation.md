@@ -147,10 +147,7 @@ ___
 # Configure `Blog` entity in Drupal
 
 ---
-# Menu 'Structure': select 'Content types'
-![select menu 'Structure' -> 'Content types'](./structure--content-types.png)
 
----
 # Add new content type
 ![Add new content type](./add-new-content-type.png)
 
@@ -172,18 +169,6 @@ ___
 ![Add field Blog image](./add-field-blog-image-1.png)
 
 ---
-# Add field Blog Image
-![Add field Blog image](./add-field-blog-image-2.png)
-
----
-# Add field Blog Image
-![Add field Blog image](./add-field-blog-image-3.png)
-
----
-# Add field Blog Image
-![Add field Blog image](./add-field-blog-image-4.png)
-
----
 # Add field Blog Tags
 ![Add field Blog tags](./add-field-blog-tags-0.png)
 
@@ -198,14 +183,6 @@ ___
 ---
 # Add field Blog Tags
 ![Add field Blog tags](./add-field-blog-tags-3.png)
-
----
-# Add field Blog Tags
-![Add field Blog tags](./add-field-blog-tags-4.png)
-
----
-# Add field Blog Tags
-![Add field Blog tags](./add-field-blog-tags-5.png)
 
 ---
 # Add field Blog Tags
