@@ -288,6 +288,7 @@ plugins: [
   }
 ],
 ```
+
 ---
 
 # GraphQL - GraphiQL
@@ -393,9 +394,10 @@ relationships{
 
 ---
 # Generate BlogPost nodes
-[https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js)
-<br>
-<br>
+`npm install --save transliteration`  
+  
+[https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js)  
+
 add **this** code to `gatsby-node.js`  
 
 ---
