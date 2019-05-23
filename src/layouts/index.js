@@ -15,6 +15,8 @@ const Header = ({ name1, name2, link1, link2, title, date }) => (
         <a href="https://soulweb.it" target="_blank">
           <img src={logo} alt="Soulweb Solutions Logo" />
         </a>
+        <a href="https://soulweb.it" title="https://soulweb.it">https://soulweb.it</a>
+        &nbsp;|&nbsp;
         <a href="mailto:info@soulweb.it" title="info@soulweb.it">info@soulweb.it</a>
       </div>
         <div className="names">
