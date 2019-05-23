@@ -209,9 +209,9 @@ ___
 # Build a Gatsby website
 
 Requirements:
-- Node.js
-- npm
-- git (starter dependency)
+- Node.js - [https://nodejs.org](https://nodejs.org)
+- npm (included in Node.js installation)
+- git (starter dependency) - [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 **Install:**  
 `npm install --global gatsby-cli`
