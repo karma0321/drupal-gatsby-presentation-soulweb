@@ -11,12 +11,6 @@ for consumption by other applications”_
 
 ---
 
-# Introducing   
-# GatsbyJS
-
----
-
-
 # What’s GatsbyJS
 ![Gatsby Logo](./gatsby-logo.png)
 
