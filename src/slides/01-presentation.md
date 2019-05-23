@@ -207,6 +207,11 @@ ___
 
 ---
 
+# Create Blog content
+![Create Blog content](./create-blog-content.png)
+
+---
+
 # Build a Gatsby website
 
 Requirements:
