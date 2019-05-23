@@ -84,6 +84,24 @@ you can take advantage of Gatsby to learn them.
 
 ---
 
+# Drupal quick installation
+
+<br />
+
+
+## Windows and MacOS users:
+https://www.acquia.com/drupal/acquia-dev-desktop  
+
+<br />
+
+## Linux users:
+
+https://www.drupal.org/docs/8/install/drupal-8-quick-start-command
+
+
+
+---
+
 # Enable JSON:API module
 
 <div class="w-60vw">
@@ -93,6 +111,7 @@ you can take advantage of Gatsby to learn them.
 </div>
 
 ### or
+
 <div class="no-margin-pre-wrapper">
 
 ```
@@ -105,11 +124,20 @@ $ drush en jsonapi
 
 # Download and enable `jsonapi_extras`
 
+https://www.drupal.org/project/jsonapi_extras
+
+### or
+
+<div class="no-margin-pre-wrapper">
+
 ```bash
 $ composer require drupal/jsonapi_extras
 $ drush en jsonapi_extras
 
 ```
+
+</div>
+
 ___
 
 # Module `jsonapi` and `jsonapi_extras` enabled
