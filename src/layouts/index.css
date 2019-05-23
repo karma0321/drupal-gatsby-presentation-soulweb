@@ -242,6 +242,10 @@ table{
   box-shadow: 0 4px 7px 1px #999 !important;
 }
 
+.no-margin-pre-wrapper pre{
+  margin: 0;
+}
+
 @media(max-width: 920px){
   body, html{
     height: auto;

@@ -85,12 +85,22 @@ you can take advantage of Gatsby to learn them.
 ---
 
 # Enable JSON:API module
+
+<div class="w-60vw">
+
 ![Enabling JSON:API module](./enable-jsonapi.png)
 
+</div>
+
 ### or
-```bash
+<div class="no-margin-pre-wrapper">
+
+```
 $ drush en jsonapi
 ```
+
+</div>
+
 ---
 
 # Download and enable `jsonapi_extras`
