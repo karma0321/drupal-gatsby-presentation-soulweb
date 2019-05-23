@@ -350,7 +350,7 @@ export const query = graphql`
           summary
         }
         relationships{
-          field_tags{
+          field_blog_tags{
             name
           }
 
@@ -373,7 +373,7 @@ relationships{
 
   ...
 
-  field_image{
+  field_blog_image{
     filename
     localFile{
       childImageSharp{
@@ -393,11 +393,10 @@ relationships{
 
 ---
 # Generate BlogPost nodes
-
+[https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js)
+<br>
+<br>
 add **this** code to `gatsby-node.js`  
-
-_(now is when you switch to the editor to show the code)_
-
 
 ---
 
