@@ -10,10 +10,6 @@ for consumption by other applications”_
 - **Progressively decoupled**: provides a middle ground by interpolating Javascript Frameworks into Twig
 
 ---
-# JSON:API in core
-since version 8.7.0
-
----
 
 # Introducing   
 # GatsbyJS
