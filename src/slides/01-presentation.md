@@ -185,7 +185,7 @@ ___
 ![Add field Blog tags](./add-field-blog-tags-3.png)
 
 ---
-# Add field Blog Tags
+# Setup field Blog Tags
 <div class="w-60vw shadowed-images-wrapper">
 
 ![Add field Blog tags](./add-field-blog-tags-60.png)
@@ -200,7 +200,7 @@ ___
 
 ---
 
-# Publish Drupal server
+# Publish Drupal Server
 ## We don't need it, Drupal can stay on your localhost!
 ##### (thanks to the magic of a static website)
 
