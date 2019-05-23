@@ -25,4 +25,4 @@ https://www.meetup.com/es-ES/DrupalMalaga/
 | <a href="https://twitter.com/devMartini" target="_blank">@devMartini</a> | <a href="https://twitter.com/karma0321" target="_blank">@karma0321</a> |
 <a href="https://soulweb.it" target="_blank">![Soulweb Solutions Logo](./soulweb-logo-horiz.png)</a>
 
-[info@soulweb.it](mailto:info@soulweb.it)
+[https://soulweb.it](https://soulweb.it) | [info@soulweb.it](mailto:info@soulweb.it)
