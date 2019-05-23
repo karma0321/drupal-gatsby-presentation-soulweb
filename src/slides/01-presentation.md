@@ -395,7 +395,7 @@ relationships{
 ---
 # Generate BlogPost nodes
 `npm install --save transliteration`  
-  
+
 [https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js)  
 
 add **this** code to `gatsby-node.js`  
@@ -426,6 +426,7 @@ const BlogPost = ({ data }) => {
 
 - Once finished, checkout `/public` folder to see result of your hard work
 - Deploying your site is now simply copy/push contents in `/public` to your server
+- More deploy options: [https://www.gatsbyjs.org/docs/deploying-and-hosting/](https://www.gatsbyjs.org/docs/deploying-and-hosting/)
 
 
 ---
