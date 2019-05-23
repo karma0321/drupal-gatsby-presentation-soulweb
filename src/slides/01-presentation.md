@@ -143,7 +143,19 @@ ___
 # Module `jsonapi` and `jsonapi_extras` enabled
 ![JSON:API and jsonapi_extras modules enabled](./enable-jsonapi-extras.png)
 
+
 ---
+
+# JSON:API Extras options
+![JSON:API Extras options](./jsonapi-extras-options-0.png)
+
+---
+
+# JSON:API Extras options
+![JSON:API Extras options](./jsonapi-extras-options-1.png)
+
+---
+
 # Configure `Blog` entity in Drupal
 
 ---
@@ -192,15 +204,6 @@ ___
 ### [...]
 ![Add field Blog tags](./add-field-blog-tags-61.png)
 </div>
-
----
-# JSON:API Extras options
-![JSON:API Extras options](./jsonapi-extras-options-0.png)
-
----
-
-# JSON:API Extras options
-![JSON:API Extras options](./jsonapi-extras-options-1.png)
 
 ---
 
