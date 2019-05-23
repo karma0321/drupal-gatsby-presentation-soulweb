@@ -427,6 +427,7 @@ const BlogPost = ({ data }) => {
 - Once finished, checkout `/public` folder to see result of your hard work
 - Deploying your site is now simply copy/push contents in `/public` to your server
 - More deploy options: [https://www.gatsbyjs.org/docs/deploying-and-hosting/](https://www.gatsbyjs.org/docs/deploying-and-hosting/)
+- To test the build run `gatsby serve` to launch a web server on [http://localhost:9000](http://localhost:9000)
 
 
 ---
