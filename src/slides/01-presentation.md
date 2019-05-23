@@ -88,14 +88,6 @@ https://www.acquia.com/drupal/acquia-dev-desktop
 
 https://www.drupal.org/docs/8/install/drupal-8-quick-start-command
 
-
-
----
-
-# Publish Drupal server
-## We don't need it, Drupal can stay on your localhost!
-##### (thanks to the magic of a static website)
-
 ---
 
 # Enable JSON:API module
@@ -205,6 +197,12 @@ ___
 
 # Create Blog content
 ![Create Blog content](./create-blog-content.png)
+
+---
+
+# Publish Drupal server
+## We don't need it, Drupal can stay on your localhost!
+##### (thanks to the magic of a static website)
 
 ---
 
