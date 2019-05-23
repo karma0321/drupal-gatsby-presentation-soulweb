@@ -92,6 +92,12 @@ https://www.drupal.org/docs/8/install/drupal-8-quick-start-command
 
 ---
 
+# Publish Drupal server
+## We don't need it, Drupal can stay on your localhost!
+##### (thanks to the magic of a static website)
+
+---
+
 # Enable JSON:API module
 
 <div class="w-60vw">
