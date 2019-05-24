@@ -223,6 +223,18 @@ header span {
   margin-right: 10px;
 }
 
+#header-right{
+  text-align: right;  
+}
+
+.madewith{
+  color: black;
+  font-size: 0.75rem;
+}
+.gatsbyjs {
+  color: #6e5099;
+}
+
 table{
   margin: 0 auto;
   width: 75%;

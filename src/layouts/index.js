@@ -26,7 +26,7 @@ const Header = ({ name1, name2, link1, link2, title, date }) => (
     </div>
     <div id="header-right">
       {title}<br/>
-      <time>{date}</time>
+      <time>{date}</time> | <span className="madewith">made with <span className="gatsbyjs">GatsbyJS</span></span>
     </div>
   </header>
 );
