@@ -418,6 +418,9 @@ const BlogPost = ({ data }) => {
 }
 
 ```
+
+[https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/src/templates/BlogPost.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/src/templates/BlogPost.js)
+
 ---
 
 # GatsbyJS - Deploy
