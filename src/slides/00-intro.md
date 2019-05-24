@@ -1,5 +1,5 @@
 # Welcome
-## Decoupled Drupal + GatsbyJS
+## Drupal + GatsbyJS
 ![Drupal + GatsbyJS](./drupal-gatsby-u.png)
 
 [https://gatsbydrupal.soulweb.it/](https://gatsbydrupal.soulweb.it/)
@@ -26,3 +26,11 @@ https://www.meetup.com/es-ES/DrupalMalaga/
 <a href="https://soulweb.it" target="_blank">![Soulweb Solutions Logo](./soulweb-logo-horiz.png)</a>
 
 [https://soulweb.it](https://soulweb.it) | [info@soulweb.it](mailto:info@soulweb.it)
+
+---
+
+# Agenda
+
+- Intro to Drupal Decoupled
+- Intro to GatsbyJS
+- Build your blog with Drupal + GatsbyJS

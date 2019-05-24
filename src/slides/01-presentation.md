@@ -10,16 +10,6 @@ for consumption by other applications”_
 - **Progressively decoupled**: provides a middle ground by interpolating Javascript Frameworks into Twig
 
 ---
-# JSON:API in core
-since version 8.7.0
-
----
-
-# Introducing   
-# GatsbyJS
-
----
-
 
 # What’s GatsbyJS
 ![Gatsby Logo](./gatsby-logo.png)
@@ -97,8 +87,6 @@ https://www.acquia.com/drupal/acquia-dev-desktop
 ## Linux users:
 
 https://www.drupal.org/docs/8/install/drupal-8-quick-start-command
-
-
 
 ---
 
@@ -197,7 +185,7 @@ ___
 ![Add field Blog tags](./add-field-blog-tags-3.png)
 
 ---
-# Add field Blog Tags
+# Setup field Blog Tags
 <div class="w-60vw shadowed-images-wrapper">
 
 ![Add field Blog tags](./add-field-blog-tags-60.png)
@@ -212,12 +200,18 @@ ___
 
 ---
 
+# Publish Drupal Server
+## We don't need it, Drupal can stay on your localhost!
+##### (thanks to the magic of a static website)
+
+---
+
 # Build a Gatsby website
 
 Requirements:
-- Node.js
-- npm
-- git (starter dependency)
+- Node.js - [https://nodejs.org](https://nodejs.org)
+- npm (included in Node.js installation)
+- git (starter dependency) - [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 **Install:**  
 `npm install --global gatsby-cli`
@@ -294,6 +288,7 @@ plugins: [
   }
 ],
 ```
+
 ---
 
 # GraphQL - GraphiQL
@@ -342,7 +337,7 @@ const Blog = ({ data }) => {
 
 ```
 export const query = graphql`
-  query allNodeArticle{
+  query allNodeBlog{
     totalCount
     edges{
       node{
@@ -356,7 +351,7 @@ export const query = graphql`
           summary
         }
         relationships{
-          field_tags{
+          field_blog_tags{
             name
           }
 
@@ -379,7 +374,7 @@ relationships{
 
   ...
 
-  field_image{
+  field_blog_image{
     filename
     localFile{
       childImageSharp{
@@ -399,11 +394,11 @@ relationships{
 
 ---
 # Generate BlogPost nodes
+`npm install --save transliteration`  
+
+[https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js)  
 
 add **this** code to `gatsby-node.js`  
-
-_(now is when you switch to the editor to show the code)_
-
 
 ---
 
@@ -423,6 +418,9 @@ const BlogPost = ({ data }) => {
 }
 
 ```
+
+[https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/src/templates/BlogPost.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/src/templates/BlogPost.js)
+
 ---
 
 # GatsbyJS - Deploy
@@ -431,6 +429,11 @@ const BlogPost = ({ data }) => {
 
 - Once finished, checkout `/public` folder to see result of your hard work
 - Deploying your site is now simply copy/push contents in `/public` to your server
+- More deploy options: [https://www.gatsbyjs.org/docs/deploying-and-hosting/](https://www.gatsbyjs.org/docs/deploying-and-hosting/)
+
+`gatsby serve`
+
+Starts a test build on [http://localhost:9000](http://localhost:9000)
 
 
 ---

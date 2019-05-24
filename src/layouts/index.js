@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Link, navigate, StaticQuery, graphql } from 'gatsby';
+import { navigate, StaticQuery, graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import Swipeable from 'react-swipeable';
 import Transition from '../components/transition';
@@ -12,7 +12,7 @@ const Header = ({ name1, name2, link1, link2, title, date }) => (
   <header>
     <div id="header-left">
       <div className="logo">
-        <a href="https://soulweb.it" target="_blank">
+        <a href="https://soulweb.it" target="_blank" rel="noopener noreferrer">
           <img src={logo} alt="Soulweb Solutions Logo" />
         </a>
         <a href="https://soulweb.it" title="https://soulweb.it">https://soulweb.it</a>
@@ -20,8 +20,8 @@ const Header = ({ name1, name2, link1, link2, title, date }) => (
         <a href="mailto:info@soulweb.it" title="info@soulweb.it">info@soulweb.it</a>
       </div>
         <div className="names">
-        <a href={link1} target="_blank"><span>{name1}</span></a>,&nbsp;
-        <a href={link2} target="_blank"><span>{name2}</span></a>
+        <a href={link1} target="_blank" rel="noopener noreferrer"><span>{name1}</span></a>,&nbsp;
+        <a href={link2} target="_blank" rel="noopener noreferrer"><span>{name2}</span></a>
       </div>
     </div>
     <div id="header-right">
