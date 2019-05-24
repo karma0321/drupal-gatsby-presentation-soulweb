@@ -337,7 +337,7 @@ const Blog = ({ data }) => {
 
 ```
 export const query = graphql`
-  query allNodeArticle{
+  query allNodeBlog{
     totalCount
     edges{
       node{
