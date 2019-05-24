@@ -9,11 +9,15 @@
 
 # Thanks
 
-![AED logo](./aed_logo.jpg)
+![OpenSouthCode logo](./logo_osc.png)  
 
+![AED logo](./aed_logo.jpg)
 ![Logo Drupal Meetup Malaga](./drupal-meetup-malaga-logo.png)
+
+
 ### Drupal Meetup Malaga  
 https://www.meetup.com/es-ES/DrupalMalaga/
+
 
 ---
 

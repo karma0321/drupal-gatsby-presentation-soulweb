@@ -224,7 +224,7 @@ header span {
 }
 
 #header-right{
-  text-align: right;  
+  text-align: right;
 }
 
 .madewith{
@@ -233,6 +233,11 @@ header span {
 }
 .gatsbyjs {
   color: #6e5099;
+}
+
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
 }
 
 table{
