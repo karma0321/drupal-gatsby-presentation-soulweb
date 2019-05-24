@@ -338,30 +338,29 @@ const Blog = ({ data }) => {
 ```
 export const query = graphql`
   query allNodeBlog{
-    totalCount
-    edges{
-      node{
-        title
-        created
-        path{
-          alias
-        }
-        body{
-          processed
-          summary
-        }
-        relationships{
-          field_blog_tags{
-            name
+    allNodeBlog{
+      totalCount
+      edges{
+        node{
+          id
+          title
+          created
+          body{
+            processed
+            summary
           }
+          relationships{
+            field_blog_tags{
+              name
+            }
 
-          ...
+            ...
 
+          }
         }
       }
     }
-  }
-`
+  `
 ```
 ---
 
