@@ -88,6 +88,11 @@ https://www.acquia.com/drupal/acquia-dev-desktop
 
 https://www.drupal.org/docs/8/install/drupal-8-quick-start-command
 
+<br />
+
+## Manual download latest Drupal version  
+https://www.drupal.org/download-latest/zip
+
 ---
 
 # Enable JSON:API module
