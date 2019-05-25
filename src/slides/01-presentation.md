@@ -204,6 +204,11 @@ ___
 ## We don't need it, Drupal can stay on your localhost!
 ##### (thanks to the magic of a static website)
 
+Anyways, if you need it, we have already published one for you to test during the workshop.  
+Just use this endpoint:
+
+https://drupal.opensouthcode.web1.soulweb.it/jsonapi
+
 ---
 
 # Build a Gatsby website
