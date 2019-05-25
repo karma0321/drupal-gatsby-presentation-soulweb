@@ -296,7 +296,8 @@ https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-c
 # GraphQL - GraphiQL
 
 Look for our data with GraphiQL  
-GraphiQL is an in-browser IDE for writing, validating, and testing GraphQL queries  
+GraphiQL is an in-browser IDE for writing, validating, and testing GraphQL queries:
+
  `http://localhost:8000/___graphql`
 
 ---
