@@ -372,6 +372,8 @@ export const query = graphql`
 
 # Fetch Drupal data with GraphQL -- Images
 
+<div class="no-margin-pre-wrapper">
+
 ```
 ...
 
@@ -396,6 +398,10 @@ relationships{
 
 ...
 ```
+
+</div>
+
+https://www.gatsbyjs.org/packages/gatsby-image/
 
 ---
 # Generate BlogPost nodes
