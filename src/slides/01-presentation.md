@@ -319,6 +319,9 @@ const Blog = () => (
 export default Blog
 
 ```
+
+https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/src/pages/blog.js
+
 ---
 
 # Fetch Drupal data with GraphQL
