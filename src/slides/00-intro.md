@@ -2,7 +2,7 @@
 ## Drupal + GatsbyJS
 ![Drupal + GatsbyJS](./drupal-gatsby-u.png)
 
-[https://gatsbydrupal.soulweb.it/](https://gatsbydrupal.soulweb.it/)
+[https://gatsbydrupal.osc.web1.soulweb.it](https://gatsbydrupal.osc.web1.soulweb.it)
 
 [https://github.com/karma0321/drupal-gatsby-presentation-soulweb/tree/opensouthcode-2019](https://github.com/karma0321/drupal-gatsby-presentation-soulweb/tree/opensouthcode-2019)
 
