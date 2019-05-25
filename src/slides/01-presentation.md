@@ -463,6 +463,16 @@ Starts a test build on [http://localhost:9000](http://localhost:9000)
 - **Repository of our GatsbyJS Blog:** https://github.com/karma0321/gatsby-drupal-blog
 
 ---
+
+# More Resources
+
+- **Markdown integration:** https://www.drupal.org/project/tui_editor - https://www.gatsbyjs.org/packages/gatsby-transformer-remark/?=remark - https://www.gatsbyjs.org/packages/gatsby-remark-images/?=remark - https://www.gatsbyjs.org/packages/gatsby-remark-external-links/?=remark-ex
+- **Paginator:** https://www.gatsbyjs.org/packages/gatsby-paginate/?=paginate
+- **Internationalization**: https://www.gatsbyjs.org/packages/gatsby-plugin-intl/?=gatsby-plugin-intl
+- **Build hooks:** https://www.drupal.org/project/build_hooks
+
+---
+
 # Q&A
 
 ---
