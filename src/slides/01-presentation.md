@@ -400,10 +400,13 @@ relationships{
 ---
 # Generate BlogPost nodes
 `npm install --save transliteration`  
+<br />
 
 [https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js](https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-node.js)  
 
-add **this** code to `gatsby-node.js`  
+add **this** code to
+
+`gatsby-node.js`  
 
 ---
 
@@ -436,6 +439,8 @@ const BlogPost = ({ data }) => {
 - Deploying your site is now simply copy/push contents in `/public` to your server
 - More deploy options: [https://www.gatsbyjs.org/docs/deploying-and-hosting/](https://www.gatsbyjs.org/docs/deploying-and-hosting/)
 
+<br />
+
 `gatsby serve`
 
 Starts a test build on [http://localhost:9000](http://localhost:9000)
@@ -446,12 +451,19 @@ Starts a test build on [http://localhost:9000](http://localhost:9000)
 # Resources
 
 **Gatsby Website**
+
 [https://www.gatsbyjs.org/](https://www.gatsbyjs.org/)
 
-**This presentation**
-https://github.com/karma0321/drupal-gatsby-presentation-soulweb
+**Gatsby Source Drupal Plugin**
 
-**The code of our GatsbyJS site**
+https://www.gatsbyjs.org/packages/gatsby-source-drupal/
+
+**Repository of this presentation**
+
+https://github.com/karma0321/drupal-gatsby-presentation-soulweb/tree/opensouthcode-2019
+
+**Repository of our GatsbyJS site**
+
 https://github.com/karma0321/gatsby-drupal-blog
 
 ---
