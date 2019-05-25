@@ -450,21 +450,11 @@ Starts a test build on [http://localhost:9000](http://localhost:9000)
 
 # Resources
 
-**Gatsby Website**
-
-[https://www.gatsbyjs.org/](https://www.gatsbyjs.org/)
-
-**Gatsby Source Drupal Plugin**
-
-https://www.gatsbyjs.org/packages/gatsby-source-drupal/
-
-**Repository of this presentation**
-
-https://github.com/karma0321/drupal-gatsby-presentation-soulweb/tree/opensouthcode-2019
-
-**Repository of our GatsbyJS site**
-
-https://github.com/karma0321/gatsby-drupal-blog
+- **Gatsby Website:** [https://www.gatsbyjs.org/](https://www.gatsbyjs.org/)
+- **Gatsby Source Drupal Plugin:** https://www.gatsbyjs.org/packages/gatsby-source-drupal/
+- **Gatsby Image Plugin:** https://www.gatsbyjs.org/packages/gatsby-image/
+- **Repository of this presentation:** https://github.com/karma0321/drupal-gatsby-presentation-soulweb/tree/opensouthcode-2019
+- **Repository of our GatsbyJS Blog:** https://github.com/karma0321/gatsby-drupal-blog
 
 ---
 # Q&A
