@@ -267,6 +267,10 @@ Gatsby projects are actually React apps, so it’s common to use standard React 
 ### Install the source plugin
 `npm install --save gatsby-source-drupal`
 
+##### or
+
+`yarn add gatsby-source-drupal`
+
 ---
 
 # GatsbyJS - Drupal Integration
@@ -435,6 +439,66 @@ const BlogPost = ({ data }) => {
 
 Starts a test build on [http://localhost:9000](http://localhost:9000)
 
+---
+
+# TUI Editor
+Download and enable Drupal Toast UI editor and Markdown modules:
+
+[https://www.drupal.org/project/tui_editor](https://www.drupal.org/project/tui_editor)
+
+[https://www.drupal.org/project/markdown](https://www.drupal.org/project/markdown)
+
+screen
+
+---
+
+# Install markdown library
+
+[https://www.drupal.org/project/libraries](https://www.drupal.org/project/libraries)
+
+[https://github.com/michelf/php-markdown/archive/lib.zip](https://github.com/michelf/php-markdown/archive/lib.zip)
+
+Make sure the path becomes "/libraries/php-markdown/Michelf/MarkdownExtra.inc.php".
+
+---
+
+# Configure Toast UI Editor
+
+Text formats and editors screen
+
+add text format: Markdown
+
+set markdown text format as default for blog content
+
+---
+
+# Gatsby Remark Down
+
+`npm install --save @weknow/gatsby-remark-drupal`
+
+##### or
+
+`yarn add @weknow/gatsby-remark-drupal`
+
+---
+
+# Configure remark
+
+```
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `@weknow/gatsby-remark-drupal`,
+            options: {
+              nodes: [`article`]
+            }
+          }
+        ]
+      }
+    },
+```
 
 ---
 
