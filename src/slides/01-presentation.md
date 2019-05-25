@@ -289,6 +289,8 @@ plugins: [
 ],
 ```
 
+https://github.com/karma0321/gatsby-drupal-blog/blob/opensouthcode-2019/gatsby-config.js
+
 ---
 
 # GraphQL - GraphiQL
