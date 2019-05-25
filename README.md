@@ -3,7 +3,7 @@
 
 Slide deck (built with Gatsby) on how to use Drupal with GatsbyJS.
 
-You can view the slides at https://gatsbydrupal.opensouthcode.web1.soulweb.it  
+You can view the slides at https://gatsbydrupal.osc.web1.soulweb.it  
 
 ## Gatsby Starter Deck
 
